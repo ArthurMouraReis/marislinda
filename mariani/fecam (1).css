@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+body {
+    background-color: rgb(19, 19, 19);
+    background-image: url(Email.png);
+    background-position: top;
+    background-size:100%;
+    background-repeat: no-repeat;
+    
+}
+
+header {
+    background-color: #1a344b9e;
+    width: 1300px;
+    height: 40px;
+}
+h4{
+    text-align: left;
+    font-size: italic ;
+    color: aliceblue;
+    padding-top: 10px;
+}
+h3 {
+    color: aliceblue;
+    padding-left: 600px;
+    right: 25%;
+    font-style: italic;
+}
+img {
+    width: 300px;
+    margin-left: 480px;
+
+    
+}
+.cadastro {
+    padding-left: 550px;
+    border-radius: 50px;
+    box-sizing: border-box;
+
+}
+button{
+    border-radius: 480px;
+    margin-left: 660px;
+    background-color: #ffffff;
+    width: 50px;
+    font-style: italic;
+}
+
+

@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(19, 19, 19);
+    background-image: url(Email.png);
+    background-position: top;
+    background-size:100%;
+    background-repeat: no-repeat;
+}
+.coluna{
+  column-count: 2;
+}
+.divide{
+margin-top: 500px;
+
+}
+h2{
+text-align: center;
+font-size: italic ;
+color: rgb(255, 255, 255);
+padding-top: 19px;
+}
+
+header{
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+  background: #1a344b9e;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+.device{
+font-style: italic;
+color: aliceblue;
+border-radius: 25px;
+background-color: #1a344b9e;
+}
+
+.meio{
+text-align: center;
+width:600px;
+height: 60px;
+
+}
+.button{
+  left: 100px;
+  padding-left: 500px;
+}
+
+h1{
+  text-align: center;
+  font-style: italic;
+  font-size: 30px;
+  color: aliceblue;
+  font-family: serif;
+}
